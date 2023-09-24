@@ -1,6 +1,6 @@
 # Proyecto para el HackMTY Hackathon
 
-![Imagen de tu proyecto](images/example1.jpeg)
+![Imagen de tu proyecto](images/example1.jpg)
 
 **Fecha del Hackathon:** 23 y 24 de septiembre de 2023
 
@@ -62,9 +62,9 @@ Con estos planes de escalabilidad, **RecipeIA** está listo para crecer y adapta
 
 A continuación, te mostramos algunas capturas de pantalla de nuestro proyecto:
 
-![Captura de Pantalla 1](images/example2.jpeg)
+![Captura de Pantalla 1](images/example2.jpg)
 
-![Captura de Pantalla 2](images/example3.jpeg)
+![Captura de Pantalla 2](images/example3.jpg)
 
 ## Cómo Contribuir
 
@@ -88,7 +88,7 @@ Estaremos revisando tus contribuciones y fusionándolas con el proyecto principa
 
 Si tienes preguntas o comentarios sobre nuestro proyecto, no dudes en ponerte en contacto con nosotros:
 
-- [Correo Electrónico](correo@tuemail.com)
+- [Correo Electrónico](arellanosantoso6@gmail.com)
 
 ## Agradecimientos
 
