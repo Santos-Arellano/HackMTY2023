@@ -12,7 +12,7 @@ function RecipeGenerator() {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
-        'Authorization': 'Bearer YOUR_API_KEY',
+        'Authorization': 'Bearer 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',
       },
       body: JSON.stringify({
         prompt: `Dime cual es la receta para preparar ${platillo} con un máximo de 200 palabras.`,
